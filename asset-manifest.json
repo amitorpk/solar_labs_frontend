@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/solar_labs_frontend/static/css/main.a2edb883.css",
+    "main.js": "/solar_labs_frontend/static/js/main.a3b29e20.js",
+    "static/js/787.cda612ba.chunk.js": "/solar_labs_frontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/solar_labs_frontend/index.html",
+    "main.a2edb883.css.map": "/solar_labs_frontend/static/css/main.a2edb883.css.map",
+    "main.a3b29e20.js.map": "/solar_labs_frontend/static/js/main.a3b29e20.js.map",
+    "787.cda612ba.chunk.js.map": "/solar_labs_frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2edb883.css",
+    "static/js/main.a3b29e20.js"
+  ]
+}
